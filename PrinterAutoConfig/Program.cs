@@ -9,8 +9,6 @@ namespace PrinterAutoSetup
 {
     class Program
     {
-
-        //
         // Calling the varables and methods
         static void Main(string[] args)
         {
