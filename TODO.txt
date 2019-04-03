@@ -1,0 +1,35 @@
+> Parse arguments
+> 
+
+> authentication
+> checking Device (I.E. is this a printer or a computer)
+> Base account for admin access is typically Administrator
+
+-c : use config file
+-w : manual wifi setup
+
+
+hppc 198.200.23.43:30000 -c config.txt
+Username:|
+Password:|
+Success -or- Failure message
+
+hppc 198.200.23.43:30000
+Username:|
+Password:|
+Name:
+SNMP-get:
+Confirm SNMP-get:
+SNMP-set: 
+-confirmation-
+
+etc...
+
+
+example SNMP
+
+SNMP-get: ------
+Confirm-Get: ------
+SNMP-set : ----
+Confirm-Set : ----
+Disable community name of "Public" (This is a check box) y/n:
